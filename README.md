@@ -16,6 +16,7 @@ This Excel dashboard analyzes sales data from the fictional "Adventure Works" da
 
 3. Tools Used:
 - Microsoft Excel (Pivot Tables, Formulas, Charts, Slicers)
+- Power Query and DAX 
 
 4. Dashboard Preview:
 ![image](https://github.com/user-attachments/assets/f82b7098-cc1e-4b84-a0fe-b34429f67925)
